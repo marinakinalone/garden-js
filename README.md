@@ -1,6 +1,7 @@
 # Garden JS
 A game to practice JavaScript : adopt a bunny, solve coding katas to feed it and grow a beautiful pixel garden!
 We're a team of developers working as consultants for School of Applied Technology in Stockholm. Garden JS is our graduation project, developed in 10 days using agile methods.
+You can learn more about this project by [watching our video](https://youtu.be/sewPXu_Uvvw).
 ## Built with 
 
 ### - client-side -
